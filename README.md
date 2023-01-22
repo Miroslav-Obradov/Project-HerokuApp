@@ -1,3 +1,2 @@
-My Project
-This is project for practice testing automation on https://the-internet.herokuapp.com/login login form.
+This project is for practice automation testing on https://the-internet.herokuapp.com/login login form.
  
